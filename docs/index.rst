@@ -6,7 +6,7 @@ Roku Customer Service Telephone Number
    :caption: Contents: 
 
 
-.. image:: https://tvroku.readthedocs.io/en/latest/_images/service.gif
+.. image:: service.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
